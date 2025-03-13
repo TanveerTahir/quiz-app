@@ -13,7 +13,7 @@ This project is a simple quiz application built with Python. The application all
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quiz-app.git
+    git clone https://github.com/TanveerTahir/quiz-app.git
     ```
 2. Navigate to the project directory:
     ```bash
